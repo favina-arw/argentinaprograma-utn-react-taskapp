@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Navbar, Container, Nav, NavDropdown, NavLink } from "react-bootstrap";
+import { Navbar, Container, Nav, NavDropdown } from "react-bootstrap";
 import { BsBasket, BsPerson } from "react-icons/bs";
 import { useNavigate } from "react-router-dom";
 import { Task } from "../../types/Task";
